@@ -1,16 +1,39 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://giffiles.alphacoders.com/495/49524.gif" width="500"/>
+</div>
 
-<!--
-**Vitor-Tinelli/Vitor-Tinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+<h1>
+  Nescau Lover
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+### :technologist: Sobre mim:
+Um brasileiro em busca de conhecimento 😁
+- 🐱‍👤Eu sou pai da gatinha mais linda do mundo
+- 👾Eu amo jogar video-games
+- ⛩Apreciador da cultura japonesa
+- 🤓InfoSATC 2022
+
+
+
+
+---
+### :hammer_and_wrench: Linguagens e Ferramentas:
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+
+---
+<div id="header" align="center">
+  <img src="https://c.tenor.com/D5MGcf1tDDsAAAAd/rascal-does-not-dream-of-bunny-girl-senpai.gif" width="500"/>
+</div>
+<div id="header" align="center">
+<h1>
+  Me segue no GitHub, caso contrário... 
+  <img src="https://c.tenor.com/vTMgWcIxATgAAAAM/skull-dancing.gif" width="30px"/>
+</h1>
+</div>
