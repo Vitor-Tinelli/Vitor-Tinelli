@@ -15,9 +15,10 @@
 ### :technologist: Sobre mim:
 Um brasileiro em busca de conhecimento 😁
 - 🐱‍👤Eu sou pai da gatinha mais linda do mundo
-- 👾Eu amo jogar video-games
 - ⛩Apreciador da cultura japonesa
 - 🤓InfoSATC 2022
+- 👾Discord: Omega#0513
+- 📸Instagram: instagram.com/VitorTinelli
 
 
 
