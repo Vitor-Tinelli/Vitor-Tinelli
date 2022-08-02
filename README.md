@@ -4,7 +4,7 @@
 
 <div id="header" align="center">
 <h1>
-  Nescau Lover
+  Bem-vindo ao meu perfil
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -12,9 +12,9 @@
 
 
 ---
-### :technologist: Sobre mim:
+### Sobre mim:
 Um brasileiro em busca de conhecimento 😁
-- 🐱‍👤Eu sou pai da gatinha mais linda do mundo
+- 🐱‍👤Pai da gatinha mais linda do mundo
 - ⛩Apreciador da cultura japonesa
 - 🤓InfoSATC 2022
 - 👾Discord: Omega#0513
