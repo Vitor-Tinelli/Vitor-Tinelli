@@ -17,7 +17,7 @@ Um brasileiro em busca de conhecimento 😁
 - 🐱‍👤Pai da gatinha mais linda do mundo
 - ⛩Apreciador da cultura japonesa
 - 🤓InfoSATC 2022
-- 👾Discord: Omega#0513
+- 👾Discord: Tinelli#0513
 - 📸Instagram: instagram.com/VitorTinelli
 
 
