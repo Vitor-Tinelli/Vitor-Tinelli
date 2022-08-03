@@ -4,7 +4,7 @@
 
 <div id="header" align="center">
 <h1>
-  Bem-vindo ao meu perfil
+  Welcome to my world
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -12,10 +12,10 @@
 
 
 ---
-### Sobre mim:
-Um brasileiro em busca de conhecimento 😁
-- 🐱‍👤Pai da gatinha mais linda do mundo
-- ⛩Apreciador da cultura japonesa
+### About me:
+A Brazilian in search of knowledge 😀
+- 🐱‍👤Father of the most beautiful cat in the world
+- ⛩Lover of japanese culture
 - 🤓InfoSATC 2022
 - 👾Discord: Tinelli#0513
 - 📸Instagram: instagram.com/VitorTinelli
@@ -35,7 +35,7 @@ Um brasileiro em busca de conhecimento 😁
 </div>
 <div id="header" align="center">
 <h1>
-  Me segue no GitHub, caso contrário... 
+  Please follow me, or... 
   <img src="https://c.tenor.com/vTMgWcIxATgAAAAM/skull-dancing.gif" width="30px"/>
 </h1>
 </div>
