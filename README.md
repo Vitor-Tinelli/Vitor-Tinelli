@@ -19,6 +19,8 @@ A Brazilian in search of knowledge 😀
 - 🤓InfoSATC 2022
 - 👾Discord: Tinelli#0513
 - 📸Instagram: instagram.com/VitorTinelli
+- 🥇State Champion (Santa Catarina) of the Brazilian Robotics Olympics (2022)
+
 
 
 
