@@ -17,7 +17,7 @@ A Brazilian in search of knowledge 😀
 - 🐱‍👤Father of the most beautiful cat in the world
 - ⛩Lover of japanese culture
 - 🤓InfoSATC 2022
-- 👾Discord: Tinelli#0513
+- 👾Discord: vitortinelli
 - 📸Instagram: instagram.com/VitorTinelli
 - 🥇State Champion (Santa Catarina) of the Brazilian Robotics Olympics (2022)
 
