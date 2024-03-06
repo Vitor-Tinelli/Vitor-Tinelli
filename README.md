@@ -14,18 +14,12 @@
 ---
 ### About me:
 A Brazilian in search of knowledge 😀
-- 🐱‍👤Father of the most beautiful cat in the world
 - ⛩Lover of japanese culture
-- 🤓InfoSATC 2022
+- 🤓Engenharia da Computação UNISATC 2024
 - 👾Discord: vitortinelli
 - 📸Instagram: instagram.com/VitorTinelli
-- 🥇State Champion (Santa Catarina) of the Brazilian Robotics Olympics (2022)
+- 🥇State Champion (Santa Catarina) of the Brazilian Robotics Olympics (2022, 2023)
 
-
-
-
-
----
 ### 🛠 Linguagens e Ferramentas:
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
