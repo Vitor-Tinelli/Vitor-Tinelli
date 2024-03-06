@@ -1,8 +1,8 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://giffiles.alphacoders.com/495/49524.gif" width="500"/>
 </div>
 
-<div id="header" align="center">
+<div align="center">
 <h1>
   Welcome to my world
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -30,12 +30,13 @@ A Brazilian in search of knowledge 😀
 
 
 ---
-<div id="header" align="center">
+<div align="center">
   <img src="https://c.tenor.com/D5MGcf1tDDsAAAAd/rascal-does-not-dream-of-bunny-girl-senpai.gif" width="500"/>
 </div>
-<div id="header" align="center">
+<div align="center">
 <h1>
   Please follow me, or... 
   <img src="https://c.tenor.com/vTMgWcIxATgAAAAM/skull-dancing.gif" width="30px"/>
 </h1>
 </div>
+
