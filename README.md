@@ -1,4 +1,4 @@
-# Olá, sou Vitor Tinelli 👋
+# Olá, meu nome é Vitor Tinelli 👋
 
 ## Sobre mim
 Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Trabalho principalmente com Java e Spring Boot.
